@@ -18,7 +18,8 @@ module.exports = function(api) {
             '@components': './src/components',
             '@screens': './src/screens',
             '@services': './src/services',
-            '@assets':'./src/assets'
+            '@assets':'./src/assets',
+            '@themes': './src/themes'
           },
         },
       ],
